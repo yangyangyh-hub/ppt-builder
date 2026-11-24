@@ -1,0 +1,7 @@
+# 统一换行，避免 Windows clone 后脚本变 CRLF
+* text=auto eol=lf
+
+*.pptx binary
+*.png binary
+*.gif binary
+*.jpg binary
