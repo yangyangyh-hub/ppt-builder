@@ -38,7 +38,7 @@ LLM 直接生成 PPT 的通病是字号小到看不清、每页塞满、满屏�
 ## 安装
 
 ```bash
-git clone https://github.com/<你的账号>/ppt-builder.git \
+git clone https://github.com/yangyangyh-hub/ppt-builder.git \
   ~/.workbuddy/skills/ppt-builder
 ```
 
